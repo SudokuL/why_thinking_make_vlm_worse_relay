@@ -1,0 +1,300 @@
+{"pid": "1", "gt": "(a)", "answer": "(a) Open", "raw": "(a) Open", "correct": true}
+{"pid": "2", "gt": "(b)", "answer": "(a) Open", "raw": "(a) Open", "correct": false}
+{"pid": "3", "gt": "(a)", "answer": "(b) Thin", "raw": "(b) Thin", "correct": false}
+{"pid": "4", "gt": "(b)", "answer": "(b) Thin", "raw": "(b) Thin", "correct": true}
+{"pid": "5", "gt": "(a)", "answer": "(b) Right", "raw": "(b) Right", "correct": false}
+{"pid": "6", "gt": "(b)", "answer": "(b) Right", "raw": "(b) Right", "correct": true}
+{"pid": "7", "gt": "(a)", "answer": "(a) Towards the camera", "raw": "(a) Towards the camera", "correct": true}
+{"pid": "8", "gt": "(b)", "answer": "(b) Away from the camera", "raw": "(b) Away from the camera", "correct": true}
+{"pid": "9", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "10", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "11", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "12", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "13", "gt": "(a)", "answer": "(b) Multiple", "raw": "(b) Multiple", "correct": false}
+{"pid": "14", "gt": "(b)", "answer": "(b) Multiple", "raw": "(b) Multiple", "correct": true}
+{"pid": "15", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "16", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "17", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "18", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "19", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "20", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "21", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "22", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "23", "gt": "(a)", "answer": "(a) Front", "raw": "(a) Front", "correct": true}
+{"pid": "24", "gt": "(b)", "answer": "(a) Front", "raw": "(a) Front", "correct": false}
+{"pid": "25", "gt": "(a)", "answer": "(a) Black", "raw": "(a) Black", "correct": true}
+{"pid": "26", "gt": "(b)", "answer": "(b) Red", "raw": "(b) Red", "correct": true}
+{"pid": "27", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "28", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "29", "gt": "(a)", "answer": "(b) Incorrect", "raw": "(b) Incorrect", "correct": false}
+{"pid": "30", "gt": "(b)", "answer": "(b) Incorrect", "raw": "(b) Incorrect", "correct": true}
+{"pid": "31", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "32", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "33", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "34", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "35", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "36", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "37", "gt": "(a)", "answer": "(a) Pink", "raw": "(a) Pink", "correct": true}
+{"pid": "38", "gt": "(b)", "answer": "(b) Violet", "raw": "(b) Violet", "correct": true}
+{"pid": "39", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "40", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "41", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "42", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "43", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "44", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "45", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "46", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "47", "gt": "(a)", "answer": "(b) 6", "raw": "(b) 6", "correct": false}
+{"pid": "48", "gt": "(b)", "answer": "(b) 6", "raw": "(b) 6", "correct": true}
+{"pid": "49", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "50", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "51", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "52", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "53", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "54", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "55", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "56", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "57", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "58", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "59", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "60", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "61", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "62", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "63", "gt": "(a)", "answer": "(b) Incorrect", "raw": "(b) Incorrect", "correct": false}
+{"pid": "64", "gt": "(b)", "answer": "(b) Incorrect", "raw": "(b) Incorrect", "correct": true}
+{"pid": "65", "gt": "(a)", "answer": "(a) Correct", "raw": "(a) Correct", "correct": true}
+{"pid": "66", "gt": "(b)", "answer": "(b) Incorrect", "raw": "(b) Incorrect", "correct": true}
+{"pid": "67", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "68", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "69", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "70", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "71", "gt": "(a)", "answer": "(a) Locked", "raw": "(a) Locked", "correct": true}
+{"pid": "72", "gt": "(b)", "answer": "(b) Unlocked", "raw": "(b) Unlocked", "correct": true}
+{"pid": "73", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "74", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "75", "gt": "(a)", "answer": "(a) Top", "raw": "(a) Top", "correct": true}
+{"pid": "76", "gt": "(b)", "answer": "(a) Top", "raw": "(a) Top", "correct": false}
+{"pid": "77", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "78", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "79", "gt": "(a)", "answer": "(b) Forward", "raw": "(b) Forward", "correct": false}
+{"pid": "80", "gt": "(b)", "answer": "(b) Forward", "raw": "(b) Forward", "correct": true}
+{"pid": "81", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "82", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "83", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "84", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "85", "gt": "(a)", "answer": "(a) Erect", "raw": "(a) Erect", "correct": true}
+{"pid": "86", "gt": "(b)", "answer": "(a) Erect", "raw": "(a) Erect", "correct": false}
+{"pid": "87", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "88", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "89", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "90", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "91", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "92", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "93", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "94", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "95", "gt": "(a)", "answer": "(b) Relatively sparse", "raw": "(b) Relatively sparse", "correct": false}
+{"pid": "96", "gt": "(b)", "answer": "(a) Very dense", "raw": "(a) Very dense", "correct": false}
+{"pid": "97", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "98", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "99", "gt": "(a)", "answer": "(b) Short", "raw": "(b) Short", "correct": false}
+{"pid": "100", "gt": "(b)", "answer": "(a) Long", "raw": "(a) Long", "correct": false}
+{"pid": "101", "gt": "(a)", "answer": "(b) Set", "raw": "(b) Set", "correct": false}
+{"pid": "102", "gt": "(b)", "answer": "(b) Set", "raw": "(b) Set", "correct": true}
+{"pid": "103", "gt": "(a)", "answer": "(b) Down", "raw": "(b) Down", "correct": false}
+{"pid": "104", "gt": "(b)", "answer": "(b) Down", "raw": "(b) Down", "correct": true}
+{"pid": "105", "gt": "(a)", "answer": "(a) Eye level", "raw": "(a) Eye level", "correct": true}
+{"pid": "106", "gt": "(b)", "answer": "(a) Eye level", "raw": "(a) Eye level", "correct": false}
+{"pid": "107", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "108", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "109", "gt": "(a)", "answer": "(b) Downward", "raw": "(b) Downward", "correct": false}
+{"pid": "110", "gt": "(b)", "answer": "(b) Downward", "raw": "(b) Downward", "correct": true}
+{"pid": "111", "gt": "(a)", "answer": "(a) Inward", "raw": "(a) Inward", "correct": true}
+{"pid": "112", "gt": "(b)", "answer": "(b) Outward", "raw": "(b) Outward", "correct": true}
+{"pid": "113", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "114", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "115", "gt": "(a)", "answer": "(b) Facing the camera", "raw": "(b) Facing the camera", "correct": false}
+{"pid": "116", "gt": "(b)", "answer": "(b) Facing the camera", "raw": "(b) Facing the camera", "correct": true}
+{"pid": "117", "gt": "(a)", "answer": "(b) 2", "raw": "(b) 2", "correct": false}
+{"pid": "118", "gt": "(b)", "answer": "(b) 2", "raw": "(b) 2", "correct": true}
+{"pid": "119", "gt": "(a)", "answer": "(b) 2", "raw": "(b) 2", "correct": false}
+{"pid": "120", "gt": "(b)", "answer": "(b) 2", "raw": "(b) 2", "correct": true}
+{"pid": "121", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "122", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "123", "gt": "(a)", "answer": "(b) Right", "raw": "(b) Right", "correct": false}
+{"pid": "124", "gt": "(b)", "answer": "(b) Right", "raw": "(b) Right", "correct": true}
+{"pid": "125", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "126", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "127", "gt": "(a)", "answer": "(a) Protruding", "raw": "(a) Protruding", "correct": true}
+{"pid": "128", "gt": "(b)", "answer": "(a) Protruding", "raw": "(a) Protruding", "correct": false}
+{"pid": "129", "gt": "(a)", "answer": "(b) At an angle", "raw": "(b) At an angle", "correct": false}
+{"pid": "130", "gt": "(b)", "answer": "(b) At an angle", "raw": "(b) At an angle", "correct": true}
+{"pid": "131", "gt": "(a)", "answer": "(b) Carpet", "raw": "(b) Carpet", "correct": false}
+{"pid": "132", "gt": "(b)", "answer": "(a) Floor", "raw": "(a) Floor", "correct": false}
+{"pid": "133", "gt": "(a)", "answer": "(a) OK/SELECT", "raw": "(a) OK/SELECT", "correct": true}
+{"pid": "134", "gt": "(b)", "answer": "(a) OK/SELECT", "raw": "(a) OK/SELECT", "correct": false}
+{"pid": "135", "gt": "(a)", "answer": "(a) 1", "raw": "(a) 1", "correct": true}
+{"pid": "136", "gt": "(b)", "answer": "(b) 2", "raw": "(b) 2", "correct": true}
+{"pid": "137", "gt": "(a)", "answer": "(a) Coiled", "raw": "(a) Coiled", "correct": true}
+{"pid": "138", "gt": "(b)", "answer": "(b) Head extended", "raw": "(b) Head extended", "correct": true}
+{"pid": "139", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "140", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "141", "gt": "(a)", "answer": "(b) Lowered", "raw": "(b) Lowered", "correct": false}
+{"pid": "142", "gt": "(b)", "answer": "(b) Lowered", "raw": "(b) Lowered", "correct": true}
+{"pid": "143", "gt": "(a)", "answer": "(a) Upright", "raw": "(a) Upright", "correct": true}
+{"pid": "144", "gt": "(b)", "answer": "(a) Upright", "raw": "(a) Upright", "correct": false}
+{"pid": "145", "gt": "(a)", "answer": "(a) Looking down from above", "raw": "(a) Looking down from above", "correct": true}
+{"pid": "146", "gt": "(b)", "answer": "(b) Looking up from below", "raw": "(b) Looking up from below", "correct": true}
+{"pid": "147", "gt": "(a)", "answer": "(a) Visible", "raw": "(a) Visible", "correct": true}
+{"pid": "148", "gt": "(b)", "answer": "(b) Not visible", "raw": "(b) Not visible", "correct": true}
+{"pid": "149", "gt": "(a)", "answer": "(a) Left", "raw": "(a) Left", "correct": true}
+{"pid": "150", "gt": "(b)", "answer": "(b) Right", "raw": "(b) Right", "correct": true}
+{"pid": "151", "gt": "(a)", "answer": "(a) Back view", "raw": "(a) Back view", "correct": true}
+{"pid": "152", "gt": "(b)", "answer": "(b) Side view", "raw": "(b) Side view", "correct": true}
+{"pid": "153", "gt": "(a)", "answer": "(b) More than one", "raw": "(b) More than one", "correct": false}
+{"pid": "154", "gt": "(b)", "answer": "(b) More than one", "raw": "(b) More than one", "correct": true}
+{"pid": "155", "gt": "(a)", "answer": "(b) On the Windowsill", "raw": "(b) On the Windowsill", "correct": false}
+{"pid": "156", "gt": "(b)", "answer": "(b) On the Windowsill", "raw": "(b) On the Windowsill", "correct": true}
+{"pid": "157", "gt": "(a)", "answer": "(a) Silver", "raw": "(a) Silver", "correct": true}
+{"pid": "158", "gt": "(b)", "answer": "(b) Black", "raw": "(b) Black", "correct": true}
+{"pid": "159", "gt": "(a)", "answer": "(a) One arm", "raw": "(a) One arm", "correct": true}
+{"pid": "160", "gt": "(b)", "answer": "(b) Both arms", "raw": "(b) Both arms", "correct": true}
+{"pid": "161", "gt": "(a)", "answer": "(b) 1", "raw": "(b) 1", "correct": false}
+{"pid": "162", "gt": "(b)", "answer": "(b) 1", "raw": "(b) 1", "correct": true}
+{"pid": "163", "gt": "(a)", "answer": "(a) In front of a large window", "raw": "(a) In front of a large window", "correct": true}
+{"pid": "164", "gt": "(b)", "answer": "(b) In front of a wall between two windows", "raw": "(b) In front of a wall between two windows", "correct": true}
+{"pid": "165", "gt": "(a)", "answer": "(a) On a dish", "raw": "(a) On a dish", "correct": true}
+{"pid": "166", "gt": "(b)", "answer": "(a) On a dish", "raw": "(a) On a dish", "correct": false}
+{"pid": "167", "gt": "(a)", "answer": "(a) Some are cut open", "raw": "(a) Some are cut open", "correct": true}
+{"pid": "168", "gt": "(b)", "answer": "(b) All are uncut", "raw": "(b) All are uncut", "correct": true}
+{"pid": "169", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "170", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "171", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "172", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "173", "gt": "(a)", "answer": "(b) Raised", "raw": "(b) Raised", "correct": false}
+{"pid": "174", "gt": "(b)", "answer": "(b) Raised", "raw": "(b) Raised", "correct": true}
+{"pid": "175", "gt": "(a)", "answer": "(a) Dark", "raw": "(a) Dark", "correct": true}
+{"pid": "176", "gt": "(b)", "answer": "(b) Light", "raw": "(b) Light", "correct": true}
+{"pid": "177", "gt": "(a)", "answer": "(a) Facing the ocean", "raw": "(a) Facing the ocean", "correct": true}
+{"pid": "178", "gt": "(b)", "answer": "(a) Facing the ocean", "raw": "(a) Facing the ocean", "correct": false}
+{"pid": "179", "gt": "(a)", "answer": "(b) 2", "raw": "(b) 2", "correct": false}
+{"pid": "180", "gt": "(b)", "answer": "(b) 2", "raw": "(b) 2", "correct": true}
+{"pid": "181", "gt": "(a)", "answer": "(a) Blue", "raw": "(a) Blue", "correct": true}
+{"pid": "182", "gt": "(b)", "answer": "(b) White", "raw": "(b) White", "correct": true}
+{"pid": "183", "gt": "(a)", "answer": "(a) Holding hands", "raw": "(a) Holding hands", "correct": true}
+{"pid": "184", "gt": "(b)", "answer": "(a) Holding hands", "raw": "(a) Holding hands", "correct": false}
+{"pid": "185", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "186", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "187", "gt": "(a)", "answer": "(b) Both arms", "raw": "(b) Both arms", "correct": false}
+{"pid": "188", "gt": "(b)", "answer": "(b) Both arms", "raw": "(b) Both arms", "correct": true}
+{"pid": "189", "gt": "(a)", "answer": "(a) Grass", "raw": "(a) Grass", "correct": true}
+{"pid": "190", "gt": "(b)", "answer": "(b) Gravel path", "raw": "(b) Gravel path", "correct": true}
+{"pid": "191", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "192", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "193", "gt": "(a)", "answer": "(a) Floor", "raw": "(a) Floor", "correct": true}
+{"pid": "194", "gt": "(b)", "answer": "(b) Soil", "raw": "(b) Soil", "correct": true}
+{"pid": "195", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "196", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "197", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "198", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "199", "gt": "(a)", "answer": "(a) Quail eggs", "raw": "(a) Quail eggs", "correct": true}
+{"pid": "200", "gt": "(b)", "answer": "(a) Quail eggs", "raw": "(a) Quail eggs", "correct": false}
+{"pid": "201", "gt": "(a)", "answer": "(a)", "raw": "(a)", "correct": true}
+{"pid": "202", "gt": "(b)", "answer": "(b) \"Happy Easter!\"", "raw": "(b) \"Happy Easter!\"", "correct": true}
+{"pid": "203", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "204", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "205", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "206", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "207", "gt": "(a)", "answer": "(a) Red", "raw": "(a) Red", "correct": true}
+{"pid": "208", "gt": "(b)", "answer": "(b) Yellow", "raw": "(b) Yellow", "correct": true}
+{"pid": "209", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "210", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "211", "gt": "(a)", "answer": "(a) Palm", "raw": "(a) Palm", "correct": true}
+{"pid": "212", "gt": "(b)", "answer": "(b) Fingers", "raw": "(b) Fingers", "correct": true}
+{"pid": "213", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "214", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "215", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "216", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "217", "gt": "(a)", "answer": "(b) Standing up", "raw": "(b) Standing up", "correct": false}
+{"pid": "218", "gt": "(b)", "answer": "(b) Standing up", "raw": "(b) Standing up", "correct": true}
+{"pid": "219", "gt": "(a)", "answer": "(a) Towards", "raw": "(a) Towards", "correct": true}
+{"pid": "220", "gt": "(b)", "answer": "(a) Towards", "raw": "(a) Towards", "correct": false}
+{"pid": "221", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "222", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "223", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "224", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "225", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "226", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "227", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "228", "gt": "(b)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": false}
+{"pid": "229", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "230", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "231", "gt": "(a)", "answer": "(b) No", "raw": "(b) No", "correct": false}
+{"pid": "232", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "233", "gt": "(a)", "answer": "(a) Dark blue", "raw": "(a) Dark blue", "correct": true}
+{"pid": "234", "gt": "(b)", "answer": "(b) Light blue", "raw": "(b) Light blue", "correct": true}
+{"pid": "235", "gt": "(a)", "answer": "(a) Front", "raw": "(a) Front", "correct": true}
+{"pid": "236", "gt": "(b)", "answer": "(b) Back", "raw": "(b) Back", "correct": true}
+{"pid": "237", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "238", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "239", "gt": "(a)", "answer": "(a) Side by side", "raw": "(a) Side by side", "correct": true}
+{"pid": "240", "gt": "(b)", "answer": "(a) Side by side", "raw": "(a) Side by side", "correct": false}
+{"pid": "241", "gt": "(a)", "answer": "(a) Above", "raw": "(a) Above", "correct": true}
+{"pid": "242", "gt": "(b)", "answer": "(b) From the side", "raw": "(b) From the side", "correct": true}
+{"pid": "243", "gt": "(a)", "answer": "(b) Right", "raw": "(b) Right", "correct": false}
+{"pid": "244", "gt": "(b)", "answer": "(b) Right", "raw": "(b) Right", "correct": true}
+{"pid": "245", "gt": "(a)", "answer": "(b) Sitting", "raw": "(b) Sitting", "correct": false}
+{"pid": "246", "gt": "(b)", "answer": "(b) Sitting", "raw": "(b) Sitting", "correct": true}
+{"pid": "247", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "248", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "249", "gt": "(a)", "answer": "(a) Strawberries", "raw": "(a) Strawberries", "correct": true}
+{"pid": "250", "gt": "(b)", "answer": "(b) Cream", "raw": "(b) Cream", "correct": true}
+{"pid": "251", "gt": "(a)", "answer": "(b) Glass", "raw": "(b) Glass", "correct": false}
+{"pid": "252", "gt": "(b)", "answer": "(b) Glass", "raw": "(b) Glass", "correct": true}
+{"pid": "253", "gt": "(a)", "answer": "(a) Santa Claus", "raw": "(a) Santa Claus", "correct": true}
+{"pid": "254", "gt": "(b)", "answer": "(b) Snowman", "raw": "(b) Snowman", "correct": true}
+{"pid": "255", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "256", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "257", "gt": "(a)", "answer": "(a) There is one inside", "raw": "(a) There is one inside", "correct": true}
+{"pid": "258", "gt": "(b)", "answer": "(b) All are outside", "raw": "(b) All are outside", "correct": true}
+{"pid": "259", "gt": "(a)", "answer": "(b) Right", "raw": "(b) Right", "correct": false}
+{"pid": "260", "gt": "(b)", "answer": "(b) Right", "raw": "(b) Right", "correct": true}
+{"pid": "261", "gt": "(a)", "answer": "(a) Black", "raw": "(a) Black", "correct": true}
+{"pid": "262", "gt": "(b)", "answer": "(b) White", "raw": "(b) White", "correct": true}
+{"pid": "263", "gt": "(a)", "answer": "(a) Slice", "raw": "(a) Slice", "correct": true}
+{"pid": "264", "gt": "(b)", "answer": "(b) Whole", "raw": "(b) Whole", "correct": true}
+{"pid": "265", "gt": "(a)", "answer": "(b) Untied", "raw": "(b) Untied", "correct": false}
+{"pid": "266", "gt": "(b)", "answer": "(b) Untied", "raw": "(b) Untied", "correct": true}
+{"pid": "267", "gt": "(a)", "answer": "(a) Facing forward", "raw": "(a) Facing forward", "correct": true}
+{"pid": "268", "gt": "(b)", "answer": "(b) In profile", "raw": "(b) In profile", "correct": true}
+{"pid": "269", "gt": "(a)", "answer": "(a) Empty", "raw": "(a) Empty", "correct": true}
+{"pid": "270", "gt": "(b)", "answer": "(b) A painting hanging on it", "raw": "(b) A painting hanging on it", "correct": true}
+{"pid": "271", "gt": "(a)", "answer": "(a) Shirt", "raw": "(a) Shirt", "correct": true}
+{"pid": "272", "gt": "(b)", "answer": "(b) T-shirt", "raw": "(b) T-shirt", "correct": true}
+{"pid": "273", "gt": "(a)", "answer": "(a) Pumpkin Lights", "raw": "(a) Pumpkin Lights", "correct": true}
+{"pid": "274", "gt": "(b)", "answer": "(b) Bats", "raw": "(b) Bats", "correct": true}
+{"pid": "275", "gt": "(a)", "answer": "(b) More than one", "raw": "(b) More than one", "correct": false}
+{"pid": "276", "gt": "(b)", "answer": "(b) More than one", "raw": "(b) More than one", "correct": true}
+{"pid": "277", "gt": "(a)", "answer": "(a) SUGAR", "raw": "(a) SUGAR", "correct": true}
+{"pid": "278", "gt": "(b)", "answer": "(b) UGA", "raw": "(b) UGA", "correct": true}
+{"pid": "279", "gt": "(a)", "answer": "(b) Sitting", "raw": "(b) Sitting", "correct": false}
+{"pid": "280", "gt": "(b)", "answer": "(b) Sitting", "raw": "(b) Sitting", "correct": true}
+{"pid": "281", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "282", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "283", "gt": "(a)", "answer": "(a) Salmon fillet", "raw": "(a) Salmon fillet", "correct": true}
+{"pid": "284", "gt": "(b)", "answer": "(a) Salmon fillet", "raw": "(a) Salmon fillet", "correct": false}
+{"pid": "285", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "286", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "287", "gt": "(a)", "answer": "(a) Placed on a surface", "raw": "(a) Placed on a surface", "correct": true}
+{"pid": "288", "gt": "(b)", "answer": "(a) Placed on a surface", "raw": "(a) Placed on a surface", "correct": false}
+{"pid": "289", "gt": "(a)", "answer": "(a) Correct", "raw": "(a) Correct", "correct": true}
+{"pid": "290", "gt": "(b)", "answer": "(a) Correct", "raw": "(a) Correct", "correct": false}
+{"pid": "291", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "292", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "293", "gt": "(a)", "answer": "(b) Right", "raw": "(b) Right", "correct": false}
+{"pid": "294", "gt": "(b)", "answer": "(b) Right", "raw": "(b) Right", "correct": true}
+{"pid": "295", "gt": "(a)", "answer": "(a) White", "raw": "(a) White", "correct": true}
+{"pid": "296", "gt": "(b)", "answer": "(b) Dark-colored", "raw": "(b) Dark-colored", "correct": true}
+{"pid": "297", "gt": "(a)", "answer": "(a) Yes", "raw": "(a) Yes", "correct": true}
+{"pid": "298", "gt": "(b)", "answer": "(b) No", "raw": "(b) No", "correct": true}
+{"pid": "299", "gt": "(a)", "answer": "(b) Most of the background is dark and cloudy", "raw": "(b) Most of the background is dark and cloudy", "correct": false}
+{"pid": "300", "gt": "(b)", "answer": "(b) Most of the background is dark and cloudy", "raw": "(b) Most of the background is dark and cloudy", "correct": true}

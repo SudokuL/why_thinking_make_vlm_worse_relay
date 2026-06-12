@@ -1,0 +1,36 @@
+{
+  "acc1": {
+    "mean": 0.02,
+    "ci_lo": 0.005,
+    "ci_hi": 0.04,
+    "n": 200
+  },
+  "acc2": {
+    "mean": 0.215,
+    "ci_lo": 0.155,
+    "ci_hi": 0.27,
+    "n": 200
+  },
+  "updated": {
+    "mean": 0.195,
+    "ci_lo": 0.14,
+    "ci_hi": 0.255,
+    "n": 200
+  },
+  "inertia": {
+    "mean": 0.145,
+    "ci_lo": 0.1,
+    "ci_hi": 0.2,
+    "n": 200
+  },
+  "incomplete3": {
+    "mean": 0.0,
+    "ci_lo": 0.0,
+    "ci_hi": 0.0,
+    "n": 200
+  },
+  "delta_acc": -0.195,
+  "model": "2B-Instruct",
+  "subset": "MathVista_MINI",
+  "n_total": 200
+}

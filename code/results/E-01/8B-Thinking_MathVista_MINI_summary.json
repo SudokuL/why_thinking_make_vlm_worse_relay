@@ -1,0 +1,48 @@
+{
+  "acc1": {
+    "mean": 0.78,
+    "ci_lo": 0.72,
+    "ci_hi": 0.84,
+    "n": 200
+  },
+  "acc2": {
+    "mean": 0.75,
+    "ci_lo": 0.685,
+    "ci_hi": 0.81,
+    "n": 200
+  },
+  "acc3": {
+    "mean": 0.46,
+    "ci_lo": 0.39,
+    "ci_hi": 0.53,
+    "n": 200
+  },
+  "tir": {
+    "mean": 0.52,
+    "ci_lo": 0.45,
+    "ci_hi": 0.59,
+    "n": 200
+  },
+  "updated": {
+    "mean": 0.475,
+    "ci_lo": 0.405,
+    "ci_hi": 0.54,
+    "n": 200
+  },
+  "inertia": {
+    "mean": 0.52,
+    "ci_lo": 0.45,
+    "ci_hi": 0.595,
+    "n": 200
+  },
+  "incomplete3": {
+    "mean": 0.0,
+    "ci_lo": 0.0,
+    "ci_hi": 0.0,
+    "n": 200
+  },
+  "delta_acc": 0.030000000000000027,
+  "model": "8B-Thinking",
+  "subset": "MathVista_MINI",
+  "n_total": 200
+}
