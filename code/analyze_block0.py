@@ -19,7 +19,7 @@ import argparse
 import json
 import os
 
-RESULTS_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results"
+RESULTS_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results"
 
 MODELS = ["2B-Instruct", "2B-Thinking", "4B-Instruct", "4B-Thinking", "8B-Instruct", "8B-Thinking"]
 E02_TASKS = ["mmvp", "hallu_vis", "hallu_text"]

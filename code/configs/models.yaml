@@ -1,9 +1,10 @@
-# Model registry for why_thinking_make_vlm_worse
-# paths are absolute on ssh84
+# Model registry for why_thinking_make_vlm_worse (szu-162 relay copy)
+# paths are absolute on szu-162
 
-8B-Instruct: /data/liuruida/Brunnstrom_evalution/model/Qwen3VL8B
-8B-Thinking: /data/liuruida/Brunnstrom_evalution/model/Qwen3VL-8B-THINKING
-4B-Instruct: /data/liuruida/why_thinking_make_vlm_worse/models/Qwen3-VL-4B-Instruct
-4B-Thinking: /data/liuruida/why_thinking_make_vlm_worse/models/Qwen3-VL-4B-Thinking
-2B-Instruct: /data/liuruida/why_thinking_make_vlm_worse/models/Qwen3-VL-2B-Instruct
-2B-Thinking: /data/liuruida/why_thinking_make_vlm_worse/models/Qwen3-VL-2B-Thinking
+8B-Instruct: /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/models/Qwen3-VL-8B-Instruct
+8B-Thinking: /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/models/Qwen3-VL-8B-Thinking
+4B-Instruct: /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/models/Qwen3-VL-4B-Instruct
+4B-Thinking: /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/models/Qwen3-VL-4B-Thinking
+2B-Instruct: /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/models/Qwen3-VL-2B-Instruct
+2B-Thinking: /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/models/Qwen3-VL-2B-Thinking
+Qwen2.5-VL-7B-Instruct: /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/models/Qwen2.5-VL-7B-Instruct

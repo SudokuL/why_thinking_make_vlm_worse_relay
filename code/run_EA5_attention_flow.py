@@ -37,8 +37,8 @@ from qwen_vl_utils import process_vision_info
 from common.model_utils import load_model_and_processor, build_user_message, find_image_token_spans, IMAGE_TOKEN_ID
 from common.data_utils import load_vsbench_pairs
 
-E01_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results/E-01"
-RESULTS_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results/E-A5"
+E01_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results/E-01"
+RESULTS_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results/E-A5"
 
 TRUNC_TOKENS = 400      # cap on R_a length used for the forward pass (memory)
 N_DECILES = 10

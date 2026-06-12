@@ -5,7 +5,7 @@
 # then runs E-01 + E-02 for the 4B pair, completing the "6 models" (2B/4B/8B
 # x Instruct/Thinking) Block 0 matrix per EXPERIMENT_GUIDE.md.
 set -e
-cd /data/liuruida/why_thinking_make_vlm_worse/code
+cd /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/code
 source ~/miniconda/etc/profile.d/conda.sh
 conda activate wtmw
 

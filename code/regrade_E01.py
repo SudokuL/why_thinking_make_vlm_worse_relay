@@ -19,7 +19,7 @@ from common.data_utils import load_vsbench_pairs
 from common.grading import grade, answers_match, canonical_keys, parse_choices
 from common.metrics import aggregate
 
-RESULTS_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results/E-01"
+RESULTS_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results/E-01"
 PREFILL_PROMPT = "Wait, let me check the figure again to make sure I haven't made a mistake."
 
 

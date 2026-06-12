@@ -60,8 +60,8 @@ from common.patch_utils import (
     forward_with_cache, patch_image_kv, clone_cache,
 )
 
-E01_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results/E-01"
-RESULTS_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results/E-A3"
+E01_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results/E-01"
+RESULTS_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results/E-A3"
 
 REFLECT_PROMPT = "\n\nWait, let me check the figure again to make sure I haven't made a mistake."
 NEWTURN_TEXT = "Please double check your answer by looking at the image again. Give your final answer."

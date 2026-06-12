@@ -30,7 +30,7 @@ import json
 import os
 import re
 
-DATA_DIR = "/data/liuruida/why_thinking_make_vlm_worse/datasets/llava_cot_100k"
+DATA_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/datasets/llava_cot_100k"
 SRC = os.path.join(DATA_DIR, "train.jsonl")
 
 _CONCLUSION_RE = re.compile(r"<CONCLUSION>(.*?)</CONCLUSION>", re.DOTALL)

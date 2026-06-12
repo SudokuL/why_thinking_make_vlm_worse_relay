@@ -5,7 +5,7 @@
 # (subset of the 200 MathVista_MINI pairs where answer1 != answer2), 2B pair
 # is sampled (--limit 40) per EXPERIMENT_GUIDE.md ("8B 对全量 + 2B/4B 对抽样复现").
 set -e
-cd /data/liuruida/why_thinking_make_vlm_worse/code
+cd /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/code
 source ~/miniconda/etc/profile.d/conda.sh
 conda activate wtmw
 

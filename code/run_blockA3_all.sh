@@ -4,7 +4,7 @@
 # self-reflection vs T2 new-turn-no-image vs T3 new-turn-with-fresh-image)
 # for all 4 currently-downloaded models.
 set -e
-cd /data/liuruida/why_thinking_make_vlm_worse/code
+cd /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/code
 source ~/miniconda/etc/profile.d/conda.sh
 conda activate wtmw
 

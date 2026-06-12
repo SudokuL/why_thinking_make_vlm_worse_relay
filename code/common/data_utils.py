@@ -8,7 +8,7 @@ import os
 import pandas as pd
 from PIL import Image
 
-DATA_ROOT = "/data/liuruida/why_thinking_make_vlm_worse/datasets"
+DATA_ROOT = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/datasets"
 
 
 def _bytes_to_image(d):

@@ -6,7 +6,7 @@
 # raw2/answer1/answer2) AND all of run_blockA{1..5}_all.sh (single-GPU
 # exclusivity) to finish first.
 set -e
-cd /data/liuruida/why_thinking_make_vlm_worse/code
+cd /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/code
 source ~/miniconda/etc/profile.d/conda.sh
 conda activate wtmw
 

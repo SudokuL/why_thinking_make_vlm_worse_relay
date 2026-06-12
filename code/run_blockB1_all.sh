@@ -4,7 +4,7 @@
 # exclusivity). Also waits for LLaVA-CoT-100k's 16 image.zip.* parts to
 # finish downloading, then unzips them.
 set -e
-cd /data/liuruida/why_thinking_make_vlm_worse/code
+cd /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/code
 source ~/miniconda/etc/profile.d/conda.sh
 conda activate wtmw
 
@@ -17,7 +17,7 @@ done
 
 echo "=== [$(date)] Block 0 + Block A (all 6 models) done -- preparing E-B1 ==="
 
-DATA_DIR=/data/liuruida/why_thinking_make_vlm_worse/datasets/llava_cot_100k
+DATA_DIR=/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/datasets/llava_cot_100k
 cd "$DATA_DIR"
 
 # Wait for all 16 image.zip.part-{aa..ap} to finish downloading. The original
@@ -45,7 +45,7 @@ if [ ! -d images ] || [ -z "$(ls -A images 2>/dev/null)" ]; then
   rm -f image.zip
 fi
 
-cd /data/liuruida/why_thinking_make_vlm_worse/code
+cd /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/code
 python build_blockb_sft_data.py
 
 echo "=== [$(date)] Smoke test: train_lora_sft.py --max_steps 5 ==="

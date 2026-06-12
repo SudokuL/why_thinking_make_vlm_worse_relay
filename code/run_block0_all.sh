@@ -8,7 +8,7 @@
 # time across 4 models; documented as a scope decision in WIKI.md (can be
 # extended to the full set later if time allows -- result is resumable).
 set -e
-cd /data/liuruida/why_thinking_make_vlm_worse/code
+cd /home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/code
 source ~/miniconda/etc/profile.d/conda.sh
 conda activate wtmw
 

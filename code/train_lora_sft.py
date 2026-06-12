@@ -41,9 +41,9 @@ from PIL import Image
 
 from common.model_utils import load_model_and_processor
 
-DATA_DIR = "/data/liuruida/why_thinking_make_vlm_worse/datasets/llava_cot_100k"
+DATA_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/datasets/llava_cot_100k"
 IMAGE_ROOT = os.path.join(DATA_DIR, "images")
-CKPT_ROOT = "/data/liuruida/why_thinking_make_vlm_worse/ckpt"
+CKPT_ROOT = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/ckpt"
 
 LORA_TARGET_MODULES = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
 

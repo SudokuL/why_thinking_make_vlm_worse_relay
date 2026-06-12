@@ -25,7 +25,7 @@ from common.model_utils import load_model_and_processor, build_user_message, gen
 from common.data_utils import load_mmvp, load_hallusionbench
 from common.metrics import extract_answer, is_correct, aggregate
 
-RESULTS_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results/E-02"
+RESULTS_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results/E-02"
 
 LOADERS = {
     "mmvp": lambda limit: load_mmvp(limit=limit),

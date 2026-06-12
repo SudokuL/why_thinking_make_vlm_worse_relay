@@ -35,7 +35,7 @@ import random
 
 from PIL import Image, ImageDraw
 
-OUT_DIR = "/data/liuruida/why_thinking_make_vlm_worse/datasets/synthcf"
+OUT_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/datasets/synthcf"
 CANVAS = 392
 HALF = CANVAS // 2  # 196
 

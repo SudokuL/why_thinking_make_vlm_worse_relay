@@ -56,8 +56,8 @@ from common.patch_utils import (
     forward_with_cache, patch_image_kv, clone_cache,
 )
 
-E01_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results/E-01"
-RESULTS_DIR = "/data/liuruida/why_thinking_make_vlm_worse/results/E-A1"
+E01_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results/E-01"
+RESULTS_DIR = "/home/liuruida/from84_relay/why_thinking_make_vlm_worse_relay/results/E-A1"
 
 CUT_FRACTIONS = {"early": 0.2, "mid": 0.5, "late": 0.8}
 MAX_CONT_TOKENS = 800
